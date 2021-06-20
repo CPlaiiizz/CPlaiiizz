@@ -1,4 +1,4 @@
-- Currently working on [a Minecraft VARO plugin](https://github.com/CPlaiiizz/MinecraftVaroFanProject-Plugin/) and a [jda discord bot](https://github.com/CPlaiiizz/)
+- Currently working on a [Minecraft VARO plugin](https://github.com/CPlaiiizz/MinecraftVaroFanProject-Plugin/) and a [jda discord bot](https://github.com/CPlaiiizz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
