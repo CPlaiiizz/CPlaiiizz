@@ -1,4 +1,4 @@
-- Currently working on a [Minecraft VARO plugin](https://github.com/CPlaiiizz/MinecraftVaroFanProject-Plugin/) and a [jda discord bot](https://github.com/CPlaiiizz/)
+- Currently working on a [Minecraft VARO plugin](https://github.com/CPlaiz/MinecraftVaroFanProject-Plugin/), an [essentials-like Minecraft plugin (with Silencio](https://github.com/CPlaiz/ActiveCraft-Core) and a [Minecarft Discord plugin](https://github.com/CPlaiz/ActiveCraft-Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
