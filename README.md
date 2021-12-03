@@ -1,4 +1,4 @@
-- Currently working on [ActiveCraft-PVP](https://github.com/CPlaiz/MinecraftVaroFanProject-Plugin/), [ActiveCraft-Core (with Silencio)](https://github.com/CPlaiz/ActiveCraft-Core) and [ActiveCraft-Discord](https://github.com/CPlaiz/ActiveCraft-Discord)
+- Currently working on [ActiveCraft-PVP](https://github.com/CPlaiz/ActiveCraft-PVP/), [ActiveCraft-Core (with Silencio)](https://github.com/CPlaiz/ActiveCraft-Core) and [ActiveCraft-Discord](https://github.com/CPlaiz/ActiveCraft-Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
